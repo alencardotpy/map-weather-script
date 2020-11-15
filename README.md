@@ -6,7 +6,7 @@ A simple python script to call API from OpenWeather.org and retrive current weat
   - Current temperature.
   - Minimal current temprature.
   - Maximal current temprature.
-  - Presure.
+  - Pressure.
   - Humidity.
   - Feels like temperature.
   - Weather conditions and its representative icons displayed as code and descriptions text(See https://openweathermap.org/weather-conditions).
